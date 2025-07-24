@@ -23,14 +23,16 @@ This data science project predicts the annual salary of tech professionals based
 
 ## Demo
 
-<img width="979" height="1047" alt="Screenshot 2025-07-24 at 12 45 31 PM" src="https://github.com/user-attachments/assets/ec4bf325-d805-481b-9689-6c8808950a84" />
+<img width="979" height="1047" alt="Screenshot 2025-07-24 at 12 45 31 PM" src="https://github.com/user-attachments/assets/23bd37ac-4d67-4c54-a8db-e375b678b393" />
+
 
 
 ---
 
 
 ## Pipeline Structure
-<img width="736" height="267" alt="model_pipeline" src="https://github.com/user-attachments/assets/52300c94-b645-4c84-9429-c1fa38b76590" />
+<img width="736" height="267" alt="model_pipeline" src="https://github.com/user-attachments/assets/0e5a4777-b39c-44f6-8fc8-a5c87fba5f5f" />
+
 
 
 
